@@ -11,8 +11,6 @@ let takeNumber = function(bandName) {
        bandNumber++
        
         return string   
-        // return bandNumber + ". " + bandName
-    // console.log(bandNumber + ". " + bandName);
 }
 
 
